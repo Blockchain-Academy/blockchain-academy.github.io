@@ -1,6 +1,11 @@
 ![v](logo2.png)
 <h1><span style="font-weight: 400;">Курс по блокчейн разработке</span></h1>
-<p><strong>Основы блокчейна&nbsp;</strong></p>
+<p><em>Освоите принципы блокчейн-разработки и получите навыки для работы в этом направлении</em></p>
+<p><strong>Для кого:&nbsp;</strong></p>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;"<p>Разработчики с опытом работы 2-3 года с Python/Java</p>
+<p><strong>Формат:&nbsp;</strong></p>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;"<p>2-3 месяца онлайн занятия 2 раза в неделю</p>
+<h2><strong>Примерная программа:</strong></h2><p><strong>Основы блокчейна&nbsp;</strong></p>
 <ul>
 <li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Свойства, состояния, транзакции, блоки. Доверие к участникам сети</span></li>
 <li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Практическое занятие. Работа с GPG: создание пары ключей, подпись, шифрование. Подключение к тестнету BTC, создание кошелька, работа с эксплорером. Работа с тестнетом Ethereum</span></li>
