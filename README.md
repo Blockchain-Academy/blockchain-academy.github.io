@@ -1,3 +1,4 @@
+![v](logo2.png)
 <h1><span style="font-weight: 400;">Курс по блокчейн разработке</span></h1>
 <p><strong>Основы блокчейна&nbsp;</strong></p>
 <ul>
