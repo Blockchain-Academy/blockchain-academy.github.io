@@ -5,6 +5,8 @@
 <li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;"<p>Разработчики с опытом работы 2-3 года с Python/Java</p>
 <p><strong>Формат:&nbsp;</strong></p>
 <li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;"<p>2-3 месяца онлайн занятия 2 раза в неделю</p>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;"<p><span style="font-weight: 400;">80% практика / ревью заданий / Q&amp;A, 20% видео преподавателя </span></p>
+
 <h2><strong>Примерная программа:</strong></h2><p><strong>Основы блокчейна&nbsp;</strong></p>
 <ul>
 <li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Свойства, состояния, транзакции, блоки. Доверие к участникам сети</span></li>
@@ -71,7 +73,4 @@
 <li aria-level="1"><strong>L2 протоколы и шардинг</strong></li>
 </ul>
 <h1 style="color: #5e9ca0;">&nbsp;</h1>
-<p><strong>Методология</strong></p>
-<p><span style="font-weight: 400;">3 месяца</span></p>
-<p><span style="font-weight: 400;">80% практика / ревью заданий / Q&amp;A =</span></p>
-<p><span style="font-weight: 400;">20% видео преподавателя (12 часов)</span></p>
+
