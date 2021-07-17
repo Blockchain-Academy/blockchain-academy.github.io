@@ -70,8 +70,4 @@
 <li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Web 3js</span></li>
 <li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Создание финансовых dApps</span></li>
 </ol>
-<ul>
-<li aria-level="1"><strong>L2 протоколы и шардинг</strong></li>
-</ul>
-<h1 style="color: #5e9ca0;">&nbsp;</h1>
 
